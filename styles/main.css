@@ -2,19 +2,30 @@ body {
   background-color: #f0f0f0;
   font-family: sans-serif;
 }
-h1 {
-  background-color: #249e79;
-  padding: 5px;
-  margin: auto;
-  width: 50%;
-  text-align: center;
+.header {
+  background-color: #00ab8e;
+  padding: 10px;
+  width: 100%;
+  text-align: left;
+  position: fixed;
+  top: 0;
+  left: 0;
+  color: #ffffff;
 }
-.home {
-  background-color: #249e79;
-  padding: 5px;
-  margin: auto;
-  width: 50%;
-  text-align: center;
+.header a {
+  color: #ffffff;
+  text-decoration: none;
+}
+.header a:hover {
+  color: #606060;
+}
+.name {
+  font-style: italic;
+  float: right;
+  margin-right: 20px;
+}
+.container {
+  margin-top: 100px;
 }
 .questions {
   border-width: 1px;
@@ -24,4 +35,7 @@ h1 {
   padding: 4px;
   width: 50%;
   margin: auto;
+}
+h1 {
+  text-align: center;
 }
