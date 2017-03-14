@@ -16,13 +16,16 @@ body {
   color: #ffffff;
   text-decoration: none;
 }
-.header a:hover {
-  color: #606060;
-}
 .name {
   font-style: italic;
   float: right;
   margin-right: 20px;
+}
+.header a:hover {
+  color: #606060;
+}
+.footer {
+  background-color: #FFF;
 }
 .container {
   margin-top: 100px;
