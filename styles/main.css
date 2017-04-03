@@ -1,0 +1,18 @@
+#navbar {
+  background-color: #001aa1;
+  color: #ffbf00
+}
+#content-title {
+  text-align: center;
+}
+#footer {
+  background-color: #001aa1;
+  color: #ffbf00
+}
+.content {
+  background-color: #eeeeee;
+  padding: 2em;
+}
+.name {
+  text-align: center;
+}
