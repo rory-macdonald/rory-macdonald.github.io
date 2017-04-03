@@ -16,3 +16,9 @@
 .name {
   text-align: center;
 }
+.name a{
+  color: #ffbf00;
+}
+.blog {
+  color: #ffbf00;  
+}
